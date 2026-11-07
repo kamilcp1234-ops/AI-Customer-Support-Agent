@@ -1,6 +1,6 @@
 # SupportAI
 
-SupportAI is a customer support demo that combines a FastAPI service, separate customer and staff Streamlit applications, Groq-powered responses, MySQL records, and Hindsight persistent memory. Customers can chat with the support assistant, register complaints, review their complaints, and see complaint statistics tied to their account. Staff use a separate authenticated dashboard to manage the same complaint records.
+SupportAI is a customer support demo that combines a FastAPI service, separate customer and staff Streamlit applications, Groq-powered responses, MySQL records, and Hindsight persistent memory. Customers can chat with the support assistant, register complaints, review their complaints, and see complaint statistics tied to their account. Staff use a separate authenticated dashboard to manage the same complaint records. 
 
 ## The problem and the solution
 
